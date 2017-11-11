@@ -1,0 +1,48 @@
+#status_list {
+
+
+    position: absolute;
+
+	left   : 350;
+
+	bottom : 16.2%;
+
+	width  : 10%;
+
+	background-color: #000000;
+	opacity: 0.5;
+	    -webkit-transform-origin: 0 0;
+       -moz-transform-origin: 0 0;
+        -ms-transform-origin: 0 0;
+            transform-origin: 0 0;
+    -webkit-transform: rotate(90deg);
+       -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+         -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+}
+
+.status {
+	padding: 1px;
+	margin: 0.2em;
+}
+
+
+.status_val {
+	height : 0.5em;
+
+}
+.rotate {
+    margin: 0;
+    padding: 0;
+    -webkit-transform-origin: 0 0;
+       -moz-transform-origin: 0 0;
+        -ms-transform-origin: 0 0;
+         -o-transform-origin: 0 0;
+            transform-origin: 0 0;
+    -webkit-transform: rotate(90deg);
+       -moz-transform: rotate(90deg);
+        -ms-transform: rotate(90deg);
+         -o-transform: rotate(90deg);
+            transform: rotate(90deg);
+}

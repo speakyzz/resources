@@ -1,0 +1,42 @@
+[
+	{
+		"useBackgroundColour" : "true",
+		"backgroundColour" : "20,20,20",
+		"useBackgroundImage" : "true",
+		"backgroundImagePath" : "images/backgroundImg8.jpg",
+		"useTextColour" : "false",
+		"textColour" : "0,0,0",
+		"useBoldText" : "false",
+		"serverTitle" : "Bienvenue sur Panda",
+		"playAudioInBackground" : "false",
+		"audioPath" : "audio/gtavthemesong.ogg",
+		"audioVolume" : "0.1"
+	},
+	{
+		"rule1" : "[R]Ne pas spam chat/micro.",
+		"rule2" : "[R]Respecter le Staff et les autres joueurs.",
+		"rule3" : "[R]Ne tuez pas les joueurs sans raison (freekill).",
+		"rule4" : "[R]Ne pas abuser de votre travail.",
+		"rule5" : "[R]Ne pas spawnkill !",
+		"rule6" : "[R]Ne pas troller, parler pour rien dire.",
+		"rule7" : "[R]Ne pas freepunch."
+	},
+	{
+		"servers1" : "[IN]Discord : ",
+		"servers2" : "[IN]Météo :",
+		"servers3" : "[IN]Général :",
+		"servers4" : "[IN]Achat du téléphone et gps.",
+		"servers5" : "[IN]",
+		"servers6" : "[IN]",
+		"servers7" : "[IN]"
+	},
+	{
+		"content1" : "[S]Métiers/Gang.",
+		"content2" : "[S]Braquage Citoyen/Superètte/Banque",
+		"content3" : "[S]Pharmacie/Vêtement/Casque/Masque",
+		"content4" : "[S]Assurance 1%nocustom/2%custom",
+		"content5" : "[S]5 Routes illégales",
+		"content6" : "[S]Permis Armes/Voiture/Moto/Camion",
+		"content7" : "[S]Soon (Coffre véhicules)"
+	}
+]

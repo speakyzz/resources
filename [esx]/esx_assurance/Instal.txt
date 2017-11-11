@@ -1,0 +1,28 @@
+[FR] Pour installer rajouter dans votre table owned_vehicles :
+ `value` int(11) NOT NULL DEFAULT '0',
+ `valuels` int(11) NOT NULL DEFAULT '0',
+ `assured` varchar(255) NOT NULL DEFAULT 'false',
+Ou ajouter le SQL donnée
+
+Remplacer le esx_vehicleshop par celui donnée.
+
+Les fonctionnialer sont : 
+- Assurer les véhicules avec deux types de contrat. 
+Contrat mini : payement de 1% du prix du véhicule par jour et récupération du véhicule sans amélioration.
+Contrat maxi : payement de 2% du prix du véhicule par jour et récupération du véhicule avec amélioration.
+-Payement de 10% du véhicule pour récuperer le véhicule.
+
+[EN]For instal insurance add to table owned_vehicles :
+ `value` int(11) NOT NULL DEFAULT '0',
+ `valuels` int(11) NOT NULL DEFAULT '0',
+ `assured` varchar(255) NOT NULL DEFAULT 'false',
+Or add SQL file give in folder.
+
+Replace esx_vehicleshop by esx_vehicleshop the new. 
+
+Feature : 
+- Assures vehicles with two type of contract.
+Contract mini : pay 1% of véhicule price per day and recover your véhicule without modification.
+Contract maxi : pay 2% of véhicule price per day and recover your véhicule with modification.
+-Pay 10% of vehicle for recover our vehicle.
+
